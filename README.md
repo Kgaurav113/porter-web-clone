@@ -94,4 +94,4 @@ At Homepage we can find the our service just by filling detail in form section w
 
 
 [Project Deploy Link]()
-## Thanks and we are welcome you for your queries and suggestions.
+## Thanks and we welcome you for your queries and suggestions.
