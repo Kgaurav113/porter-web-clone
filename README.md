@@ -12,12 +12,43 @@ Then, coming to the Tech Stack to be used, we used frameworks and libraries that
 ----
 
 some snapshot of our website
-![Capture](https://user-images.githubusercontent.com/99576535/155852317-211e4ae4-6231-44f8-ad3c-4b3dccc5b470.PNG)
-![3](https://user-images.githubusercontent.com/99576535/155852324-65441a1e-fd89-4ad5-8c5e-ce3b430f189f.PNG)
 
-![6](https://user-images.githubusercontent.com/99576535/155852345-c101d091-6cc0-4c68-8609-968cd6d75eaa.PNG)
+## Navbar
+![Navbar](https://miro.medium.com/max/700/1*7aMKIPnznn8-HFd5UymbcQ.png)
+## Car tempo
+![3](https://miro.medium.com/max/700/1*gZ3GGWjp4LzTto45fTqj9Q.png)
 
+![6](https://miro.medium.com/max/700/1*tp-dPESeiGBlBzqENJhIoA.png)
+## Packers & Movers
+### Here you can see this is Porter’s Packers and Movers Page
+![](https://miro.medium.com/max/700/1*a0Q_3T37rkLHbwBniR3wtA.png)
+![](https://miro.medium.com/max/700/1*NXtlmAjTEJimRkwiG2rb5g.png)
+![](https://miro.medium.com/max/700/1*bchW0DMMLGDsIasxnx33Og.png)
+![](https://miro.medium.com/max/700/1*DMznA6An2-P1YUwAv0R10Q.png)
+![](https://miro.medium.com/max/700/1*2R7zxlHomWCV3oEkU4Ce-g.png)
 
+##  Driver Partners
+![3](https://miro.medium.com/max/700/1*Ep8DKIXF6eBOYKAiDNjqDQ.png)
+
+![6](https://miro.medium.com/max/700/1*T3zT1SON8OoTsOyQKvor2Q.png)
+
+![](https://miro.medium.com/max/700/1*INiaYw9KQ2Hqqg9gQjdqjA.png)
+
+## Enterprise page
+![](https://miro.medium.com/max/700/1*qMrT1djZGfTEkYXVog8KnQ.png)
+
+## support
+>
+![](https://miro.medium.com/max/700/1*zfRFobdl8xruU8szWpBErA.png)
+
+## track order
+>here you can track your order.
+![](https://miro.medium.com/max/700/1*ITY77X44aFOu-BBdftGhhw.png)
+
+## Footer
+>This footer is coming on all pages making it easy to check other pages in an easy fashion.
+Whenever you have a problem like booking tempo, a two-wheeler whatever you have to problem. We are here to help you.
+![](https://miro.medium.com/max/700/1*dsx12OSYzIS7J1tuctuWGw.png)
 ---
 
 
@@ -34,22 +65,7 @@ some snapshot of our website
 - [**Nitesh Singh Rawat**](https://github.com/niteshrawat0401)
 ---
 
-### Pages & Features 👇
 
-- `Home Page`: Nav Bar with dropdowns, sliding banners & slider for offer.
-[homepage](https://miro.medium.com/max/700/1*xdpwa9zC-ZgJAzLJGIfKsg.png)
-- `Sign-Up`: User details stored in local storage.
-- `Sign-In`: User authentication to check whether user phone number and password match with details existing in the database.
-
-- `Product Category Page`: Women's products are created dynamically with filters by color,and category.
-[product](https://miro.medium.com/max/700/0*XBupkHHLHgwnNNcx.png)
-- `Cart`: Users can see or remove products added to the cart.
-[cart](https://miro.medium.com/max/326/0*sukr7N1gTHBd6702.png)
-- `Checkout Page`: Users can add the delivery address.
-- `Payment Page`: Users can add their payment details.
-- `Order Successful`: cart gets empty automatically in local storage, once the user lands on this page.
-
----
 
 ### How To Use ✅
 
@@ -63,51 +79,18 @@ First you have to have to go to the `Home Page`. There you have to click on acco
 - `CSS`
 - `JavaScript`
 
----[blog-link(https://medium.com/@kgaurav501/be-bodywise-website-clone-3ba298383e78)]
----[https://medium.com/@narayanchatalwar/be-bodywise-website-clone-49ef1ab65156]
+---[blog-link(https://medium.com/@swatisaulanki/building-porter-in-clone-in-5-days-f85696371cef)]
+---[https://medium.com/@kgaurav501/building-porter-in-clone-website-79cc9fdc28d5]
 
 
 
 ---
 
-# Home Page
-Here you can find brief history of the products and website
- 
-    
-
-
-
-# Add to Cart
-In this Page, You can add the products to the Cart
-
-![8](https://user-images.githubusercontent.com/99576535/155852335-968e79db-6aa8-4fd3-9bbc-c4ab6a262091.PNG)
-
-
-
-
-# Sign-Up Page
-if you want buy any product you need sign up first and login with details then only you can buy
-
-
-
-
-
-# Products Page
-In this page, you can find all details of the product like price of the product and some basic information about products.
-![2](https://user-images.githubusercontent.com/99576535/155852329-77e3749c-81b1-4621-ba1b-ca0bc5ffdbe6.PNG)
-
-
-
- # Payment Page
-In this page, If you want to purchase the product, you need fill some details regarding card details and here you also find how the discount you get, how much you need to pay and address
-
-
-
 
 
 ****deploy link***
 
-[project Deploy link of netify](https://gallant-jackson-573754.netlify.app/index.html)
+[project Deploy link of netify]()
 
 
-[Project Deploy Link](https://github.com/rahulsinha1996/Project-Bebodywise)
+[Project Deploy Link]()
