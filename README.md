@@ -69,7 +69,7 @@ Whenever you have a problem like booking tempo, a two-wheeler whatever you have 
 
 ### How To Use ✅
 
-First you have to have to go to the `Home Page`. There you have to click on account to get a pop window where there is sign-up using mobile number.  There you can explore the home page or go to the women's section to browse products. The products can be sorted according to color,  category & discount. Click on any product to go to its product page there you can add it bag by clicking on the add to bag button. You can add multiple items to the cart. Then click on cart to view the cart which is a pop-up slider. To proceed to checkout click on `Proceed to Buy` button on the top of the cart which will redirect you to the address page where address details can be added. After clicking on proceed to buy we get redirected to the `Payment` page where card details can be added and buying process can be completed
+At Homepage we can find the our service just by filling detail in form section where we used Api for fetch the real address. most of page we made responsive so you can just visit any page and checkout the functionality and work flow.In driver and packer page you can earn money by just fill the details in form and register your vehical for delivery goods and curiers and in support page we provided the all details regarding customer support and our offices details .for track our order you can can on track orden button for get information about your orders.
 
 ---
 
@@ -94,3 +94,4 @@ First you have to have to go to the `Home Page`. There you have to click on acco
 
 
 [Project Deploy Link]()
+## Thanks and we are welcome you for your queries and suggestions.
