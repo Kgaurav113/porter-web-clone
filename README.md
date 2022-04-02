@@ -1,6 +1,15 @@
-# WEB-BebodywiseClone-Project
-This is a team project, built by us in the Construct Week in Unit-3 at Masai School
 
+# Welcome 👋
+
+---
+
+## About this project: 🙌
+
+> The name of the project is porter. in. Porter is India’s largest online delivery marketplace, connecting buyers with suppliers. The project was executed by 6 members in 5 days.
+We are all students at Masai School and currently, we are in Unit-3, so at the end of each unit, we will be assigned a project to build using all the concepts we learned in that particular unit.
+When we received porter.in the website to clone first thing we did was go through the flow of the actual website and we distributed the tasks among ourselves. Next, we had a meeting with our Designers and have gone through the designs prepared by them, no doubt both of them created beautiful layouts for us.
+Then, coming to the Tech Stack to be used, we used frameworks and libraries that all 6 devs were familiar with for the development.
+----
 
 some snapshot of our website
 ![Capture](https://user-images.githubusercontent.com/99576535/155852317-211e4ae4-6231-44f8-ad3c-4b3dccc5b470.PNG)
@@ -11,14 +20,6 @@ some snapshot of our website
 
 ---
 
-# Welcome 👋
-
----
-
-## About this project: 🙌
-
-> We worked on cloning a BODYWISE website. This website is mainly for women, where they provide women health-related products and services. in this project, we used HTML, CSS, JAVASCRIPT which we have merged by using GITHUB. Our project is dynamic and responsive in work.
-> This is a team project, built by us in the Construct Week - Unit 2 at Masai School.
 
 
 ---
