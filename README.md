@@ -27,10 +27,10 @@ some snapshot of our website
 ## Our Team Members ❤️
 
 - [**Kumar Gaurav**](https://www.linkedin.com/in/kgaurav501/)Github-id:-[https://github.com/Kgaurav113]
-- [**Prakash Dsouza **](https://github.com/PRAKASH-1971)
+- [**Prakash Dsouza**](https://github.com/PRAKASH-1971)
 - [**Akash Patil**](https://github.com/darkwingpatil)
 - [**Swati saulanki**](https://github.com/swatisaulanki)
-- [**Bharat Rozdkar ** ](https://github.com/rozodkarbharat)
+- [**Bharat Rozdkar** ](https://github.com/rozodkarbharat)
 - [**Nitesh Singh Rawat**](https://github.com/niteshrawat0401)
 ---
 
