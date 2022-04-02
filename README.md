@@ -27,11 +27,11 @@ some snapshot of our website
 ## Our Team Members ❤️
 
 - [**Kumar Gaurav**](https://www.linkedin.com/in/kgaurav501/)Github-id:-[https://github.com/Kgaurav113]
-- [**Prakash **](https://www.linkedin.com/in/rahul-sinha-584a2694),Github id-[https://github.com/[rahulsinha1996]
-- [**Samson Samal**](https://www.linkedin.com/in/samson-seemal-773637204/)
-- [**Amitabh ranjan**]()
-- [**Narayan Chatalwar** ](https://www.linkedin.com/in/narayan-chatalwar-09905121a/)[https://github.com/Narayan-Chatalwar]
-- [**Kiran Das**](https://www.linkedin.com/in/kiran-das-324b8a1b6/)
+- [**Prakash Dsouza **](https://github.com/PRAKASH-1971)
+- [**Akash Patil**](https://github.com/darkwingpatil)
+- [**Swati saulanki**](https://github.com/swatisaulanki)
+- [**Bharat Rozdkar ** ](https://github.com/rozodkarbharat)
+- [**Nitesh Singh Rawat**](https://github.com/niteshrawat0401)
 ---
 
 ### Pages & Features 👇
